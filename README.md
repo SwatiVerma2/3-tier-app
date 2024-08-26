@@ -1,4 +1,4 @@
-# #TWSThreeTierAppChallenge
+# Three Tier Application Deployment on EKS
 
 ## Overview
 This repository hosts the `#TWSThreeTierAppChallenge` for the TWS community. 
